@@ -70,3 +70,9 @@ This project involves cleaning, transforming, and analyzing a layoff dataset usi
 ## 🔄 Stored Procedure
 
 A stored procedure named `company_layoff` was created to generate a rolling sum of `total_laid_off` for a specified company.
+
+## 🧠 Learnings
+- Practical use of CTEs, `ROW_NUMBER()`, `JOIN`s, and Stored Procedures
+- Data cleaning strategies in SQL
+- Deriving insights through SQL-based EDA
+- Real-world handling of missing and inconsistent data
